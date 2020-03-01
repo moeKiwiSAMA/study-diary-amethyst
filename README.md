@@ -1,4 +1,4 @@
-# demo
+# Study Diary for Amethyst
 
 ## How to run
 
